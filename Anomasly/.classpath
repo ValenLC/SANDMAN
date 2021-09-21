@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/valentinlavigne/Downloads/gson-2.8.8.jar"/>
+	<classpathentry kind="lib" path="/Users/valentinlavigne/Downloads/javafx-sdk-16/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="/Users/valentinlavigne/Downloads/javafx-sdk-16/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="/Users/valentinlavigne/Downloads/javafx-sdk-16/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="/Users/valentinlavigne/Downloads/javafx-sdk-16/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="/Users/valentinlavigne/Downloads/javafx-sdk-16/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="/Users/valentinlavigne/Downloads/javafx-sdk-16/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="/Users/valentinlavigne/Downloads/javafx-sdk-16/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="/Users/valentinlavigne/Downloads/javafx-sdk-16/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentin/Downloads/javafx-sdk-11.0.2/lib/javafx.base.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

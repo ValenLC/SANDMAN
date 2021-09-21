@@ -1,0 +1,2 @@
+ERROR - 10:43:17: java.net.MalformedURLException: unknown protocol: pathmap
+ERROR - 10:43:43: java.net.MalformedURLException: unknown protocol: pathmap

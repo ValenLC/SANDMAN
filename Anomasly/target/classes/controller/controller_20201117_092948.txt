@@ -1,0 +1,6 @@
+WARNING - 09:29:49: First conversion pass
+ERROR - 09:29:49: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 09:30:15: Convert controller
+WARNING - 09:30:15: First conversion pass
+ERROR - 09:30:15: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
+ERROR - 09:30:15: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
